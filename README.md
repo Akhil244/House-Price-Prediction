@@ -39,16 +39,11 @@ The aim is to predict the sale price of houses based on features such as area, n
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/Akhil244/House-Price-Prediction.git
 cd House-Price-Prediction
 
 2. Install the required packages:
-
-```bash
-
 pip install -r requirements.txt
 
 3. Run the app:
-```bash
 Python app.py
